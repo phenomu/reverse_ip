@@ -1,5 +1,6 @@
 # Reverse IP tools using rapiddns
-## this tools is a reverse ip tool that returns valid domains from domain / IP
+#### this tools is a reverse ip tool that returns valid domains from domain / IP
+#### Requirements
 `revip` just requires requests & threading lib
 
 # Usage
